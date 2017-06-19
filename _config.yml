@@ -1,1 +1,17 @@
+# Site settings
+title: Liftango
+email: annemarie@liftango.com
+description: "© 2017 Liftango Pty Ltd"
+baseurl: ""
+url: "http://liftango.com"
+twitter_username: liftango
+github_username:  liftango
+
+# Build settings
 theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: pretty
+
+sass:
+  sass_dir: _sass
+  style: :compressed
